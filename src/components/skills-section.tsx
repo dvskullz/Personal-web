@@ -28,7 +28,8 @@ export function SkillsSection() {
     {
       title: "Version Control",
       skills: [
-        { name: "Git/GitHub", level: 95 },
+        { name: "Git", level: 80 },
+        {name : "Github", level: 90}
       ]
     },
     {
@@ -38,6 +39,15 @@ export function SkillsSection() {
         { name: "CLI", level: 80 },
         { name :" Data Science", level:75},
         { name :" AI/ML", level:85}
+      ]
+    },
+    {
+      title: "Interpersonal Skills", 
+      skills: [
+        { name: "Adaptability", level: 90 },
+        { name: "Team-Work", level: 80 },
+        { name :" Stress Management", level:85},
+        { name :" Tuff & Nonchalant", level:100}
       ]
     }
   ]

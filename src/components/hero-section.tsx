@@ -19,7 +19,7 @@ export function HeroSection() {
             variant="outline"
             className="text-sm font-mono border-primary/30 bg-primary/5"
           >
-            Available for freelance work
+            Software Developer
           </Badge>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold bg-gradient-primary bg-clip-text text-transparent leading-tight">
@@ -35,10 +35,12 @@ export function HeroSection() {
         <p
           className="text-lg md:text-xl max-w-2xl mx-auto text-muted-foreground leading-relaxed animate-fade-in"
           style={{ animationDelay: "0.2s" }}
-        >
-          • I enjoy working in minimal environments, experimenting with new
-          tools, and constantly learning.
+
+        >Creating cutting-edge technologies with cutting-edge passion because to create is to endure burning.
         </p>
+
+          {/* I enjoy working in minimal environments, experimenting with new
+          tools, and constantly learning.  */}
 
         {/* Action Buttons */}
         <div
