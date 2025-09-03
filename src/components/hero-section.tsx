@@ -59,7 +59,7 @@ export function HeroSection() {
           </a>
 
           {/* Download CV */}
-          <a href="/cv.pdf" download>
+          <a href="/resume.pdf" download>
             <Button
               variant="outline"
               size="lg"
