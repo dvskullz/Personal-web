@@ -47,8 +47,7 @@ export function SkillsSection() {
         { name: "Adaptability", level: 90 },
         { name: "Team-Work", level: 80 },
         { name :" Stress Management", level:85},
-        { name :" Tuff & Nonchalant", level:100}
-      ]
+       ]
     }
   ]
 
