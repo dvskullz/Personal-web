@@ -1,13 +1,12 @@
-# minimal-md-maker
+# Portfolio
 
-A minimal Markdown maker built with modern web technologies.
+A personal website built with modern web technologies.
 
 ## Tech Stack
 
 - React + TypeScript
 - Vite
 - Tailwind CSS
-- shadcn/ui
 
 ## Getting Started
 
